@@ -1,1 +1,1 @@
-# Predicting_Financial_Resilience
+This is the src of the financial resilient prediction. The data was available on the Zindi website. After performing some feature engineering approaches and cleaning the data, the XGBoost model was used. The final model was trained on the proccessed data and achieved an accuracy of 65.14%.
